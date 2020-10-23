@@ -1,0 +1,1 @@
+run = "python dungeon_and_dragons/dice.py"
